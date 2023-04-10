@@ -1,0 +1,18 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "iphone",
+            "img": [],
+            "desc": "moi nhat",
+            "price": "3456",
+            "quality": "2"
+        },
+        {
+            "name": "2131312",
+            "desc": "3213213",
+            "price": "123123123",
+            "id": "8Y6jtj9"
+        }
+    ]
+}
